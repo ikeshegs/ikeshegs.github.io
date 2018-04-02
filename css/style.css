@@ -141,6 +141,7 @@ PAGE: ABOUT
     border-radius: 50%;
     height: 300px;
     width: 300px;
+    transform: rotate(90deg);
     
 }
 
